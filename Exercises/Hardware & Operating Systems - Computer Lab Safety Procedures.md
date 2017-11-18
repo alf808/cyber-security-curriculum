@@ -15,7 +15,7 @@ It is very easy to lose small pieces when disassembling and assembling a compute
 - Accessories:
 Remove any jewelry or loose hanging cothing that could get caught in a fan or stuck in the computer. This is a real thing and has actually happened to me!
 
--Be Prepared: 
+- Be Prepared: 
 Make sure you have all the neccesary tools needed before jumping in.
 
 ## 3. Required Equipement
