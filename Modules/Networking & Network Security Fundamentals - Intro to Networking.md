@@ -15,7 +15,7 @@
     - Ring 
     - Mesh
   - Physical and Logical
-  - * Network Diagram Program example
+  - Network Diagram Program example
 - Network Devices
   - NICS
   - Modem
@@ -36,6 +36,17 @@
   - https://www.netacad.com/campaign/ptdt-4
 - Ethernet Basics
 - OSI Model
+- Packets
+  - Inroduce Wireshark
+  - Talk about whats in a packet
+  - Crafting our own packets
+  
+Activities
+- Show network mapping tool
+- Cable demonstration
+- Download Packet Tracer and build a simple network
+- Talk about wireshark 
+
 
 
   
