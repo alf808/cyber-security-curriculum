@@ -13,15 +13,14 @@ Assessment:
 https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz
 
 Keywords:
-
+CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryption, Steganography, Hashing, Fault Tolerance, Patching, Accountability, 
 
 Additional Resources:
 
 [CompTIA Security+](https://certification.comptia.org/certifications/security)
-[How to pass your Security+ - anything on Professor Messer is great!](https://www.professormesser.com/security-plus/sy0-501/how-to-pass-you
-r-sy0-501-security-exam/) 
+
+[How to pass your Security+](https://www.professormesser.com/security-plus/sy0-501/how-to-pass-your-sy0-501-security-exam/) 
+
 [Threat Actors](https://www.professormesser.com/security-plus/sy0-501/threat-actors/)
-[Security +](https://resources.infosecinstitute.com/category/certifications-training/secur
-ityplus/#gref)
-[Security+ Study Guide - Specifically the section titled security basics](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5
-simhpSlTTA-Z-dtCj0/edit#heading=h.9jy0u88oavdx)
+
+[Study Guide Specifically the section titled security basics](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit#heading=h.9jy0u88oavdx)
