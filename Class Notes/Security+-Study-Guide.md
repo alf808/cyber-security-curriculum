@@ -13,7 +13,7 @@
 https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz
 
 #### Keywords:
-CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryption, Steganography, Hashing, Fault Tolerance, Patching, Accountability, 
+CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryption, Steganography, Hashing, Fault Tolerance, Patching, Differentiating Accountability, Authentication & Authorization, Identification, Least Privilege, Separation and Rotation of Duties, Layered Security, Defense in Depth, Due Care & Due Dilligence, Vulnerability, zero-day, Exploit, Threat Actors, Types of Actors, Virtualization, Hypervisor, Virtual-Box, iso file
 
 #### Additional Resources:
 
