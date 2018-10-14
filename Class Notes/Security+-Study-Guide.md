@@ -24,3 +24,18 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
   [Threat Actors](https://www.professormesser.com/security-plus/sy0-501/threat-actors/)
 
   [Study Guide Specifically the section titled security basics](https://docs.google.com/document/d/1hXGyKDWdpJLKZWWuu5eVTh-N5simhpSlTTA-Z-dtCj0/edit#heading=h.9jy0u88oavdx)
+
+
+### Week 2
+
+#### Read
+- Chapter 1
+- Chapter 7 pg's 279 - 293
+- Chapter 8 
+
+#### Assessment
+
+#### Keywords
+Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server, DNS round-robin, coaxial cable, twisted pair cable, Straight-through cables, crossover cables, fiber-optic cables, IP address, subnet mask, default gateway, loopback address, TCP, TCP/IP, UDP, ICMP, ARP, HTTP/HTTPS, DNS, SMTP, FTP, MAil Protocols, SSH, Telnet, SFTP, LDAP, NetBios, IPv6 , Host-based firewall, TCP Wrappers, HIDS, NIDS, IPS/IDS, Security hot-fix, Honeypot and Honeynet, Protocol analyzer, NAC, IPSec, TLS Encryption, Backdoor, privilege escalation, service pack, Antivirus, Packet-filtered firewall (stateless), stateful packet inspection firewall, application-layer firewall, IPTables, LAN/intranet, DMZ, Extranet, NAT, Web Application firewall, URL filter
+
+#### Additional Resources
