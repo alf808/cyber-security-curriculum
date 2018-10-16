@@ -34,7 +34,7 @@ CIA Triad (Confidentiality, Integrity, Availibility), Access Comtrols, Encryptio
 - Chapter 8 
 
 #### Assessment
-https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz
+https://drive.google.com/drive/u/1/folders/1ros2yDhEZhPIqQgwCroSsive4c4r0Ocz?ogsrc=32
 
 
 #### Keywords
@@ -42,3 +42,9 @@ Hub, Switch, port security, VLANS, Router, Load Balancer, Firewall, Proxy Server
 
 #### Additional Resources
 [Professor Messer Section 2 Technologies and Tools](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
+
+[Udacity Networking Course](https://www.udacity.com/course/computer-networking--ud436)
+
+[Microsoft Training](https://mva.microsoft.com/en-us/training-courses/networking-fundamentals-8249?l=vc8igMKy_304984382)
+
+
